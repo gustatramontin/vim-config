@@ -1,0 +1,4 @@
+call plug#begin()
+let g:hy_enable_conceal = 1
+Plug 'hylang/vim-hy'
+call plug#end()
